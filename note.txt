@@ -1,0 +1,6 @@
+
+
+Formula of finding  sum of All Digit  example 1+2+3= 6;
+
+n*(n+1)/2
+

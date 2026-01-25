@@ -4,3 +4,15 @@ Formula of finding  sum of All Digit  example 1+2+3= 6;
 
 n*(n+1)/2
 
+When should Two Pointer “click” in your head?
+Think two pointer when:
+You’re working with an array or string
+You want to avoid O(n²)
+You’re comparing, shrinking, or expanding a range
+One-line Interview Explanation
+“Two pointers help traverse arrays efficiently by narrowing or expanding a search space without nested loops.”
+
+Two-pointer only works on sorted arrays
+/[a-z0-9]/i.test(s[l]) important for  validPalindrom
+
+“3Sum = fix one element + Two Sum on the rest”

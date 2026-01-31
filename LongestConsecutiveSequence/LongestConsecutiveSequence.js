@@ -11,7 +11,7 @@ class Solution {
         //step4 else 
             const  consSet= new Set();
         for(let n of nums){
-            
+                
         }
         console.log(nums)
     }
